@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NirojShah
 - 👀 I’m interested in programming and web devlopment
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on simple project using python
+- 💞️ I’m looking to collaborate on project using python, HTML, CSS, JS, Angular, PHP, NodeJS etc
 - 📫 How to reach me nirojshah950@gmail.com
 
 <!---
