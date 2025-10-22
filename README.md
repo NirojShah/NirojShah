@@ -22,21 +22,7 @@ All of my projects are available at: [niraj-shah-portfolio.netlify.app](https://
 - Python  
 - Java  
 
-## 🛠️ Technologies & Tools  
-- Express  
-- Node  
-- Next.js  
-- Socket.io  
-- TailwindCSS  
-- Git  
-- Jenkins  
-- SMTP  
-- Dovecot  
-- Linux  
-- NAS  
-- Nginx  
-- Prometheus  
-- Grafana  
+## 🛠️ Technologies & Tools  - Express, Node, Next.js, Socket.io, TailwindCSS, Git, Jenkins, SMTP, Dovecot, Linux, NAS, Nginx, Prometheus, Grafana
 
 ## 📫 How To Reach Me  
 **Email:** nirajshah950@gmail.com
