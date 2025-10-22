@@ -5,11 +5,42 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirojshah" alt="nirojshah" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://niraj-shah-portfolio.netlify.app/](https://niraj-shah-portfolio.netlify.app/)
+# 👋 Hi, I'm Niraj Shah
 
-- 💬 Ask me about **React,Node,express,mongoose,java,sql**
+## 👨‍💻 Projects  
+All of my projects are available at: [niraj-shah-portfolio.netlify.app](https://niraj-shah-portfolio.netlify.app/)
 
-- 📫 How to reach me **nirajshah950@gmail.com**
+## 💬 Ask Me About  
+**React, Node, Express, Mongoose, Java, SQL**
+
+## 📦 Databases  
+- MongoDB  
+- MySQL  
+
+## 💻 Languages  
+- JavaScript  
+- Python  
+- Java  
+
+## 🛠️ Technologies & Tools  
+- Express  
+- Node  
+- Next.js  
+- Socket.io  
+- TailwindCSS  
+- Git  
+- Jenkins  
+- SMTP  
+- Dovecot  
+- Linux  
+- NAS  
+- Nginx  
+- Prometheus  
+- Grafana  
+
+## 📫 How To Reach Me  
+**Email:** nirajshah950@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
