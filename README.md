@@ -1,90 +1,120 @@
 <h1 align="center">Hi 👋, I'm Niroj Shah</h1>
-<h3 align="center">Full Stack Developer | Backend </h3>
+<h3 align="center">Full Stack Developer | Backend | Open Source Enthusiast</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NirojShah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirojshah&label=Profile%20views&color=0e75b6&style=flat" alt="nirojshah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirojshah" alt="nirojshah" /></a> </p>
 
 # 👋 Hi, I'm Niroj Shah
 
-🚀 Full Stack Developer with experience building **real-time applications, scalable backend systems, and secure mail server infrastructure**.
+🚀 Full Stack Developer with experience building **real-time applications, scalable backend systems, responsive web interfaces, and secure mail server infrastructure**.
 
-I enjoy working on **distributed systems, DevOps automation, and real-time technologies.**
-
----
-
-## 👨‍💻 Projects  
-All of my projects are available at:  
-🔗 https://niraj-shah-portfolio.netlify.app/
+I enjoy working on **distributed systems, DevOps automation, real-time technologies, and modern web development.**
 
 ---
 
-## 💬 Ask Me About  
-**React, Node.js, Express, NestJS, WebSockets, Socket.IO, Mail Servers, DevOps, Java, SQL**
+## 🌐 Portfolio Website
+
+### 📱 **Check out my interactive portfolio:**
+🔗 **[Niroj Shah Portfolio](https://github.com/NirojShah/portfolio)** - Modern, responsive portfolio built with HTML, CSS & JavaScript  
+**GitHub Pages:** https://NirojShah.github.io/portfolio/
+
+This portfolio showcases:
+- 30+ projects across various technologies
+- Skills in React, Angular, Node.js, and more
+- Real-time collaboration systems
+- AI/ML implementations (Face Detection)
+- ERP systems and more
 
 ---
 
-## 📦 Databases  
+## 👨‍💻 Major Projects
 
-- MongoDB  
-- MySQL  
-- Redis  
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Blog Platform** | Modern blog with dynamic content | React.js |
+| **Face Detection Attendance** | Intelligent attendance tracking | TypeScript, ML |
+| **Collaborative Editor** | Real-time document collaboration | Node.js, Socket.io |
+| **ERP System** | Admission & institution management | JavaScript, Express |
+| **Analytics Dashboard** | Interactive data visualization | Frontend |
+| **Bulk Mail System** | Email automation with SMTP | Node.js |
+
+📊 All projects: https://github.com/NirojShah?tab=repositories
 
 ---
 
-## 💻 Languages  
+## 💬 Ask Me About
 
-- JavaScript  
-- Java  
-- Python  
+**React, Angular, Node.js, Express, NestJS, WebSockets, Socket.IO, Mail Servers, DevOps, Java, SQL, Face Detection, Real-time Systems**
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 📦 Databases
+
+- MongoDB
+- MySQL
+- Redis
+- PostgreSQL
+
+---
+
+## 💻 Languages
+
+- **JavaScript** (Expert)
+- **TypeScript** (Advanced)
+- **Java** (Intermediate)
+- **Python** (Intermediate)
+- **HTML/CSS** (Expert)
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### Frontend
-- React.js  
-- Next.js  
-- TailwindCSS  
+- React.js
+- Angular
+- HTML5/CSS3
+- JavaScript/TypeScript
+- TailwindCSS
 
 ### Backend
-- Node.js  
-- Express.js  
-- NestJS  
-- WebSockets  
-- Socket.IO  
+- Node.js
+- Express.js
+- NestJS
+- WebSockets
+- Socket.IO
+- REST APIs
 
 ### DevOps & Infrastructure
-- Docker  
-- Jenkins  
-- Kubernetes  
-- NGINX  
-- Linux  
-- CI/CD Pipelines  
+- Docker
+- Jenkins
+- Kubernetes
+- NGINX
+- Linux
+- CI/CD Pipelines
 
 ### Networking & Mail Servers
-- SMTP  
-- Postfix  
-- Dovecot  
-- LDAP  
-- SASL  
+- SMTP
+- Postfix
+- Dovecot
+- LDAP
+- SASL
 
 ### Monitoring & Cloud
-- Prometheus  
-- Grafana  
-- AWS (EC2)  
+- Prometheus
+- Grafana
+- AWS (EC2)
 
 ### Other Tools
-- Git  
-- Postman  
-- NAS  
+- Git/GitHub
+- Postman
+- Design Patterns
+- Agile Development
 
 ---
 
-## 📫 How To Reach Me  
+## 📫 How To Reach Me
 
-📧 **Email:** nirojshah1998@gmail.com  
+📧 **Email:** nirojshah1998@gmail.com
 
 ---
 
@@ -93,6 +123,9 @@ All of my projects are available at:
 <p align="left">
 <a href="https://linkedin.com/in/nirojshah" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niroj shah" height="30" width="40" />
+</a>
+<a href="https://github.com/NirojShah" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="niroj shah" height="30" width="40" />
 </a>
 </p>
 
@@ -104,6 +137,10 @@ All of my projects are available at:
 
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://angular.io/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/> 
 </a>
 
 <a href="https://nodejs.org" target="_blank"> 
@@ -162,12 +199,36 @@ All of my projects are available at:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/> 
 </a>
 
+<a href="https://www.java.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
+</a>
+
 </p>
 
 ---
+
+## 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirojshah&show_icons=true&locale=en&layout=compact" alt="nirojshah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirojshah&show_icons=true&locale=en" alt="nirojshah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirojshah&" alt="nirojshah" /></p>
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable backend systems with Node.js & NestJS
+- Implementing real-time features with WebSockets
+- DevOps & Container orchestration
+- AI/ML integration in web applications
+- Open source contributions
+
+---
+
+**Last Updated:** July 2024
