@@ -15,8 +15,8 @@ I enjoy working on **distributed systems, DevOps automation, real-time technolog
 ## 🌐 Portfolio Website
 
 ### 📱 **Check out my interactive portfolio:**
-🔗 **[Niroj Shah Portfolio]([https://github.com/NirojShah/portfolio](https://portfolio-new-yx76.onrender.com/))** - Modern, responsive portfolio built with HTML, CSS & JavaScript  
-**GitHub Pages:** https://NirojShah.github.io/portfolio/
+🔗 **[Niroj Shah Portfolio]([https://portfolio-new-yx76.onrender.com/])** - Modern, responsive portfolio built with HTML, CSS & JavaScript  
+**GitHub Pages:** https://portfolio-new-yx76.onrender.com/
 
 This portfolio showcases:
 - 30+ projects across various technologies
