@@ -1,173 +1,50 @@
-<h1 align="center">Hi 👋, I'm Niroj Shah</h1>
-<h3 align="center">Full Stack Developer | Backend </h3>
+# Niroj Shah
+**Full Stack & Backend Developer**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirojshah&label=Profile%20views&color=0e75b6&style=flat" alt="nirojshah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirojshah" alt="nirojshah" /></a> </p>
-
-# 👋 Hi, I'm Niroj Shah
-
-🚀 Full Stack Developer with experience building **real-time applications, scalable backend systems, and secure mail server infrastructure**.
-
-I enjoy working on **distributed systems, DevOps automation, and real-time technologies.**
-
----
-
-## 👨‍💻 Projects  
-All of my projects are available at:  
-🔗 https://niraj-shah-portfolio.netlify.app/
-
----
-
-## 💬 Ask Me About  
-**React, Node.js, Express, NestJS, WebSockets, Socket.IO, Mail Servers, DevOps, Java, SQL**
-
----
-
-## 📦 Databases  
-
-- MongoDB  
-- MySQL  
-- Redis  
-
----
-
-## 💻 Languages  
-
-- JavaScript  
-- Java  
-- Python  
-
----
-
-## 🛠️ Technologies & Tools  
-
-### Frontend
-- React.js  
-- Next.js  
-- TailwindCSS  
-
-### Backend
-- Node.js  
-- Express.js  
-- NestJS  
-- WebSockets  
-- Socket.IO  
-
-### DevOps & Infrastructure
-- Docker  
-- Jenkins  
-- Kubernetes  
-- NGINX  
-- Linux  
-- CI/CD Pipelines  
-
-### Networking & Mail Servers
-- SMTP  
-- Postfix  
-- Dovecot  
-- LDAP  
-- SASL  
-
-### Monitoring & Cloud
-- Prometheus  
-- Grafana  
-- AWS (EC2)  
-
-### Other Tools
-- Git  
-- Postman  
-- NAS  
-
----
-
-## 📫 How To Reach Me  
-
-📧 **Email:** nirojshah1998@gmail.com  
-
----
-
-<h3 align="left">Connect with me:</h3>
+nirojshah1998@gmail.com | [LinkedIn](https://linkedin.com/in/nirojshah) | [GitHub](https://www.github.com/NirojShah)
 
 <p align="left">
-<a href="https://linkedin.com/in/nirojshah" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niroj shah" height="30" width="40" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=nirojshah&label=Profile%20views&color=0e75b6&style=flat" alt="nirojshah" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### Professional Overview
 
-<p align="left">
-
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://expressjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://nestjs.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://redis.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.docker.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://kubernetes.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.jenkins.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.nginx.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://prometheus.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://grafana.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/> 
-</a>
-
-</p>
+Full Stack & Backend Developer with 2.6+ years of experience engineering scalable microservices, serverless APIs, real-time engines, and AI-native applications. Currently building backend microservices and AI workflows at **Accenture**. Specialized in Node.js, TypeScript, Azure Functions, PostgreSQL, Redis, and Model Context Protocol (MCP) integrations.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirojshah&show_icons=true&locale=en&layout=compact" alt="nirojshah" /></p>
+### Core Competencies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirojshah&show_icons=true&locale=en" alt="nirojshah" /></p>
+* **Languages:** JavaScript, TypeScript, Python, Java, SQL
+* **Backend:** Node.js, NestJS, Express.js, REST APIs, Microservices, Azure Functions, Socket.IO, WebSockets
+* **Frontend:** React.js, Next.js, Angular, Tailwind CSS
+* **Databases & Caching:** PostgreSQL, MongoDB, MySQL, Redis, Prisma, ChromaDB
+* **AI & Engineering:** Model Context Protocol (MCP), RAG Architecture, Ollama, Vector Embeddings, Gemini API
+* **DevOps & Infrastructure:** Docker, Kubernetes, NGINX, Jenkins, CI/CD, AWS, Linux, Grafana, Prometheus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirojshah&" alt="nirojshah" /></p>
+---
+
+### Selected Projects
+
+* **GitSentinel (AI Automated PR & Code Repair Agent):** Automated repository maintenance platform built with Angular, TypeScript, PostgreSQL, Prisma, and MCP. Automatically analyzes error logs, inspects codebase files, applies fixes, and opens GitHub Pull Requests.
+* **Finance Management System + AI:** Enterprise accounting software integrated with Ollama LLM and RAG for automated invoice data extraction, reducing manual processing effort by 60–70%.
+* **AI Dynamic Form Engine & Analytics:** MERN-stack custom form builder integrated with Gemini AI API for natural language querying across response datasets.
+* **Local Chatbot with RAG:** Semantic search and multi-turn conversational AI built using React, Node.js, ChromaDB, and Ollama.
+
+---
+
+### Metrics & Analytics
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; width: 100%;">
+  <img style="flex: 1 1 30%; min-width: 250px; max-width: 100%;" src="https://github-readme-stats-fast.vercel.app/api?username=nirojshah&show_icons=true&theme=onedark&locale=en" alt="Stats" />
+  <img style="flex: 1 1 30%; min-width: 250px; max-width: 100%;" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nirojshah&layout=compact&theme=onedark" alt="Languages" />
+  <img style="flex: 1 1 30%; min-width: 250px; max-width: 100%;" src="https://streak-stats.demolab.com/?user=nirojshah&theme=onedark" alt="Streak" />
+</div>
+
+<br />
+
+<div style="width: 100%;">
+  <img style="width: 100%; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirojshah&theme=onedark" alt="Niroj Shah Profile Details" />
+</div>
