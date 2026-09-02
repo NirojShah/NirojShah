@@ -37,14 +37,20 @@ Full Stack & Backend Developer with 2.6+ years of experience engineering scalabl
 
 ### Metrics & Analytics
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; width: 100%;">
-  <img style="flex: 1 1 30%; min-width: 250px; max-width: 100%;" src="https://github-readme-stats-fast.vercel.app/api?username=nirojshah&show_icons=true&theme=onedark&locale=en" alt="Stats" />
-  <img style="flex: 1 1 30%; min-width: 250px; max-width: 100%;" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nirojshah&layout=compact&theme=onedark" alt="Languages" />
-  <img style="flex: 1 1 30%; min-width: 250px; max-width: 100%;" src="https://streak-stats.demolab.com/?user=nirojshah&theme=onedark" alt="Streak" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=nirojshah&show_icons=true&theme=onedark&locale=en" width="100%" alt="Stats" />
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nirojshah&layout=compact&theme=onedark" width="100%" alt="Languages" />
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=nirojshah&theme=onedark" width="100%" alt="Streak" />
+    </td>
+  </tr>
+</table>
 
-<br />
-
-<div style="width: 100%;">
-  <img style="width: 100%; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirojshah&theme=onedark" alt="Niroj Shah Profile Details" />
-</div>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirojshah&theme=onedark" width="100%" alt="Niroj Shah Profile Details" />
+</p>
